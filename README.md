@@ -6,7 +6,7 @@ This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4
 You may use this dataset for research and educational purposes only. The datasets should only be used for academic research on LLM-generated text analysis, misinformation detection, and related topics. Commercial use is strictly prohibited.
 
 Authentic_news.CSV::
-You can get the Authentic_news.CSV file in [Kaggle Dataset]([https://www.kaggle.com/datasets/ayshaakther/bangla-authentic-and-manipulated-news-set/data])
+You can get the Authentic_news.CSV file in [Kaggle Dataset](https://www.kaggle.com/datasets/ayshaakther/bangla-authentic-and-manipulated-news-set/data)
 
 
 FOR CITATION::
